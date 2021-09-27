@@ -1,0 +1,18 @@
+{
+  "name": "time_to_answer",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.1",
+    "fastclick": "^1.0.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "metismenu": "^3.0.7",
+    "nprogress": "^0.2.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jackson Pires <jack@jack.com>",
+  "license": "MIT"
+}
